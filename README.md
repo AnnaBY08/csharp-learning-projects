@@ -11,7 +11,7 @@
 ## 📁 Список проектов
 
 ### 1. If-Else Examples (`if-else-examples.zip`)
-**Файл:** `Инструкция else.cs` → переименован в `Program.cs`  
+**Файл:** `Инструкция else.cs`  
 **Namespace:** `IfElseExamples`
 
 Примеры использования условных операторов `if/else`:
